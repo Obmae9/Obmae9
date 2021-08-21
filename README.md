@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello! 
+I'm here trying to know Github a little...
+🌱
+
 
 <!--
 **Obmae9/Obmae9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
