@@ -1,5 +1,5 @@
 ### Hello! 
-I'm here trying to know Github a little...
+Here discovering Github a little...
 🌱
 
 
